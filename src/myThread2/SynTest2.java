@@ -34,4 +34,5 @@ public class SynTest2 {
         w3.start();
     }
 }
+
 class A{}

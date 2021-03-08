@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/JavaProject.iml" filepath="$PROJECT_DIR$/JavaProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../JavaSE/Mul_Thread/Mul_Thread1.iml" filepath="$PROJECT_DIR$/../JavaSE/Mul_Thread/Mul_Thread1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Stage2/Stage2.iml" filepath="$PROJECT_DIR$/Stage2/Stage2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Stage3.iml" filepath="$PROJECT_DIR$/Stage3.iml" />
     </modules>
   </component>
 </project>
