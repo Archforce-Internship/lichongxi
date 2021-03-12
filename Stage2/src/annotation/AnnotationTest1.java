@@ -29,9 +29,12 @@ class Person{
 
 }
 
+
 interface Info1{
     void show();
 }
+
+
 class Student extends Person implements Info1{
     public void walk()
     {
@@ -41,6 +44,7 @@ class Student extends Person implements Info1{
     @Override
     public void show()
     {
+
     }
 }
 
